@@ -7,4 +7,4 @@ The installer will:
 * Create a shortcut of profiler on your desktop
 * Keep Profiler up to date on a new release
 
-* Enjoy!
+Enjoy!
